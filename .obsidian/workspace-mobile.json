@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "hhhja"
             }
+          },
+          {
+            "id": "76d0d6e62de4d9ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yjjjj.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "yjjjj"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -148,8 +163,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6d833b5a7473cfdc",
+  "active": "76d0d6e62de4d9ba",
   "lastOpenFiles": [
-    "hhhja.md"
+    "hhhja.md",
+    "yjjjj.md",
+    "hjkll"
   ]
 }
